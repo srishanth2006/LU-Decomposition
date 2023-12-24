@@ -25,7 +25,7 @@ a=np.array(eval(input()))
 P,L,U =lu(a)
 print(L)
 print(U)
-
+'''
 
 (ii) To find the LU Decomposition of a matrix
 ```
