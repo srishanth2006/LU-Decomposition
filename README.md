@@ -42,7 +42,7 @@ b=np.array(eval(input()))
 lu,piv=lu_factor(a)
 x=lu_solve((lu, piv),b)
 print(x)
-
+```
 ## Output:
 <img width="629" alt="Screenshot 2023-12-24 194431" src="https://github.com/srishanth2006/LU-Decomposition/assets/150319470/cecc334f-c34b-467c-9aa8-9519a35853ec">
 
